@@ -1,0 +1,27 @@
+N?u javascript.enabled là true, nó bi?n d?i thành false v?i vi?c nh?n toggle. N?u javascript b? vô hi?u hóa, nó kích ho?t khi nh?n toggle.
+
+JavaScript trong Chrome
+Sau dây là các bu?c d? kích ho?t ho?c vô hi?u hóa JavaScript trong Chrome:
+
+Nh?p chu?t vào menu t?i phía trên cùng bên ph?i c?a trình duy?t..
+
+Ch?n Settings.
+
+Nh?p chu?t ch?n Show advanced settings ? cu?i trang.
+
+Du?i khu v?c Privacy, nh?n nút Content settings.
+
+Trong khu v?c "JavaScript", ch?n "Do not allow any site to run JavaScript" ho?c "Allow all sites to run JavaScript (recommended)".
+
+JavaScript trong Opera
+Du?i dây là các bu?c d? kích ho?t ho?c vô hi?u hóa JavaScript trong Opera:
+
+T? menu, b?n ch?n Tools ? Preferences.
+
+Ch?n tùy ch?n Advanced t? h?p tho?i.
+
+Ch?n Content t? các m?c du?c li?t kê.
+
+Ch?n Enable JavaScript checkbox.
+
+Cu?i cùng nh?n Ok và thoát ra.
